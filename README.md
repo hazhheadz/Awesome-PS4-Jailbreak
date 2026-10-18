@@ -32,6 +32,7 @@ User friendly-ish
 * [PS4 Wallpaper Helper](https://github.com/xingoxu/ps4-wallpaper-helper) – A tool help you to change PS4 (after 4.50) wallpaper and profile page image.
 * [PS4 Save Search](https://github.com/mroshaw/PS4SaveSearch) – A tool to incrementally search decrpyted PS4 saves.
 * [PS4 Rpc](https://github.com/Frankity/Ps4Rpc) – Share what are you playing into Discord Rich Presence.
+* [orbisRPC](https://github.com/SirHumza/orbisRPC) – Discord Rich Presence from the console itself: shows your game, cover art and play timer with no PC needed.
 
 ### Mods
 * [PS4 GTAV Menu Base](https://github.com/2much4u/PS4-GTA-V-Menu-Base) – A mod menu GUI for PS4 GTA V buit on top of [native caller](https://github.com/2much4u/PS4-GTA-V-Native-Caller).
